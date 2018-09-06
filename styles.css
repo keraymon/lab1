@@ -1,0 +1,51 @@
+* { 
+    margin: 0;
+    padding: 0;
+   
+}
+
+.header {
+    height: 60px; 
+    line-height: 60px;
+    padding: 0 24px;
+    background-color: orange;
+}
+
+h1 {
+   margin:0;
+   float: left;
+}
+
+.header ul{
+    list-style-type: none;
+}
+
+li {
+    margin-left: 20px;
+    float: right;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    width:  70%;
+    background-color: grey;
+    float: left;
+    min-height: 500px;
+
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: navy;
+    color: white;
+    min-height: 500px;
+}
+
+.main p{
+    margin: 20px;
+}
