@@ -32,7 +32,6 @@ li {
 
 .content {
     width:  70%;
-    background-color: grey;
     float: left;
     min-height: 500px;
 
@@ -43,9 +42,25 @@ li {
     float: left;
     background-color: navy;
     color: white;
-    min-height: 500px;
+    min-height:707px;
 }
 
 .main p{
     margin: 20px;
+}
+
+   
+.blog-post {
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: .5%;
+
+}
+ 
+img {
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
